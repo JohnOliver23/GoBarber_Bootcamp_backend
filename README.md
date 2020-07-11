@@ -3,11 +3,11 @@
 </h1>
 
 <h3 align="center">
-  GoBarber - Aplicação desenvolvida durante o curso de NodeJS
+  GoBarber - Aplicação desenvolvida durante o curso GoStack da Rocketseat
 </h3>
 
 <h3 align="center">
-  #rocketseat, #nodejs, #express, #sequelize, #mongodb, #redis, #jwt, #nodemailer, #youch, #yup
+  #rocketseat, #nodejs, #express, #react.js #typescript #jwt, #yup
 </h3>
 
 <p align="center">
@@ -33,7 +33,23 @@
 
 A aplicação que iremos dar início ao desenvolvimento a partir de agora é um app gerenciador de agendamentos de uma barbearia, o **GoBarber**.
 
+### Desenvolvimento do backend
 
+- Layout da Aplicação
+
+- Cadastro de Agendamentos
+
+- Validando a data
+
+- Model de Agendamento
+
+- Criando repositórios
+
+- Listando Agendamentos
+
+- Trabalhando com dados
+
+- Services & SOLID
 
 ## :memo: Licença
 
