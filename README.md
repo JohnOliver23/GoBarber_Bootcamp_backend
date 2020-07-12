@@ -8,22 +8,9 @@
 
 ## :rocket: Sobre a Aplicação
 
-A aplicação que iremos dar início ao desenvolvimento a partir de agora é um app gerenciador de agendamentos de uma barbearia, o **GoBarber**.
+Desenvolvimento backend de um app gerenciador de agendamentos de uma barbearia, o **GoBarber**.
 
-### Desenvolvimento do backend
+### Tecnologias utilizadas
 
-- Layout da Aplicação
-
-- Cadastro de Agendamentos
-
-- Validando a data
-
-- Model de Agendamento
-
-- Criando repositórios
-
-- Listando Agendamentos
-
-- Trabalhando com dados
-
-- Services & SOLID
+- Node
+- Typescript
